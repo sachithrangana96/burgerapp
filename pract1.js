@@ -8,4 +8,7 @@ function test (){
     
     var mul = a*b;
     console.log(mul)
+
+    var mul = a/b;
+    console.log(mul)
 }
