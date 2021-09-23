@@ -5,4 +5,7 @@ function test (){
     var a =5,b=6;
     var sum = a+b;
     console.log(sum)
+    
+    var mul = a*b;
+    console.log(mul)
 }
